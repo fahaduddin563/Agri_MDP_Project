@@ -1,6 +1,6 @@
 # Optimal Irrigation–Fertilization Policy
 ### COMP 569 – Artificial Intelligence | Project 3
-**Paramveer Singh** | California State University Channel Islands
+**Fahad Uddin** | California State University Channel Islands
 
 ---
 
